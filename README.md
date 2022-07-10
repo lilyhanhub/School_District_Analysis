@@ -10,14 +10,22 @@ The chief data scientist of the PyCity School District, Maria has been tasked to
 * School performance based on the school type
 
 ## Results
-After removing all the math and reading scores of Thomas High School 9th graders, which was a total of 461 students. 
-##### Amended District Summary
+Below are the comparison of orignal and amended results after removing all the math and reading scores of Thomas High School 9th graders, which was a total of 461 students. 
+**Amended District Summary**
 ![Amended district summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/district_summary_amended.png)
-##### Orignial District Summary
+**Orignial District Summary**
 ![Original district summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/district_summary_original.png)
 
-How is the district summary affected?
-How is the school summary affected?
+**Amended Per School Summary**
+![Amended School Summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/school_summary_amended.png)
+**Original Per School Summary**
+![Original School Summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/school_summary_original.png)
+
+**Amended Top 5 School Summary**
+![Amended Top 5 School Summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/top5schools_amended.png)
+**Original Top 5 School Summary**
+![Original Top 5 School Summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/top5schools_original.png)
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
