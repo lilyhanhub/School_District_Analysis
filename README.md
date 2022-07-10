@@ -9,12 +9,6 @@ The chief data scientist of the PyCity School District, Maria has been tasked to
 * School performance based on the school size
 * School performance based on the school type
 
-
-
-
-
-
-
 ## Results
 ( Using bulleted lists and images of DataFrames as support, address the following questions.
 
