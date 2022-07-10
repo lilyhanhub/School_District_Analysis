@@ -10,7 +10,8 @@ The chief data scientist of the PyCity School District, Maria has been tasked to
 * School performance based on the school type
 
 ## Results
-( Using bulleted lists and images of DataFrames as support, address the following questions.
+### District Summary Comparison
+After removing all the math and reading scores of Thomas High School 9th graders, which was a total of 461 students
 
 How is the district summary affected?
 How is the school summary affected?
