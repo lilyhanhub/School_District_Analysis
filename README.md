@@ -40,7 +40,7 @@ Scores by school type)
 
 ## Resources
 * Data Source: 
-  * schools_complete.csv
-  * students_complete.csv
+  * [schools_complete.csv](/Resources/school_complete.csv)
+  * [students_complete.csv](/Resources/student_complete.csv
   * clean_students_complete.csv
 * Software: Jupyter Notebook, Anaconda 4.13.0
