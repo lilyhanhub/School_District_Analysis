@@ -42,7 +42,6 @@ Below are the comparison of orignal and amended results after removing all the m
 ## Summary
 (Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.)
 
-
 ## Resources
 * Data Source: 
   * [schools_complete.csv](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Resources/schools_complete.csv)
