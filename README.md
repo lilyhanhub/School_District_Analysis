@@ -11,6 +11,7 @@ The chief data scientist of the PyCity School District, Maria has been tasked to
 
 ## Results
 Below are the comparison of orignal and amended results after removing all the math and reading scores of Thomas High School 9th graders, which was a total of 461 students. 
+
 **Amended District Summary**
 ![Amended district summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/district_summary_amended.png)
 **Orignial District Summary**
