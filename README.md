@@ -10,7 +10,7 @@ The chief data scientist of the City School District, Maria has been tasked to a
 * School performance based on the school type
 
 ## Results
-Below are the comparison of orignal and amended results after removing all the math and reading scores of Thomas High School 9th graders, which was a total of 461 students. 
+Below are comparisons of the orignal and amended results after removing all the math and reading scores of Thomas High School 9th graders, which was a total of 461 students. 
 
 1. **Amended District Summary**
 ![Amended district summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/district_summary_amended.png)
