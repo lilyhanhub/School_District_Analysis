@@ -33,12 +33,11 @@ Below are the comparison of orignal and amended results after removing all the m
   **Original Average Math Scores by Grade Level**
 ![Original Scores by Grade Level](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/math_scores_by_grade_original.png)
 
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type)
-
+* Effects of replacing the ninth-grade scores for Thomas High School(THS)
+  * No changes to the Math and reading scores by grade except for the THS 9th graders being replaced with NaN
+  * No changes to the School Spending Summary 
+  * No changes to the School Size Summary
+  * No changes to the School Type Summary
 
 ## Summary
 (Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.)
