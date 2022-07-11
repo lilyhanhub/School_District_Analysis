@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Overview of the school district analysis
-The chief data scientist of the PyCity School District, Maria has been tasked to analyze data from the students' standardized test scores. The analysis report will be used to for informed discussions and strategic decisions at school and district levels. After generating a high-level snapshot of the school district's key metrics, the school board has identified academic dishonesty with 9th grade math and reading scores at Thomas High School. The purpose of this analysis is to assist Maria to replace the math and reading scores for Thomas High School while keeping the rest of the data intact, and to recreate the following metrics:
+The chief data scientist of the PyCity School District, Maria has been tasked to analyze data from the students' standardized test scores. The analysis report will be used to for informed discussions and strategic decisions at school and district levels. After generating a high-level snapshot of the school district's key metrics, the school board has identified academic dishonesty with 9th grade math and reading scores at Thomas High School. The purpose of this analysis is to assist Maria to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact, and to recreate the following metrics:
 * District Summary - provides a snapshot of the districts' key metrics
 * Per School Summary - provides key metrics for each school
 * A table presenting the top 5 and bottom 5 performing schools based on the overall students passing
@@ -27,7 +27,6 @@ Below are the comparison of orignal and amended results after removing all the m
 **Original Top 5 School Summary**
 ![Original Top 5 School Summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/top5schools_original.png)
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
