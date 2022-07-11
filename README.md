@@ -12,28 +12,28 @@ The chief data scientist of the PyCity School District, Maria has been tasked to
 ## Results
 Below are the comparison of orignal and amended results after removing all the math and reading scores of Thomas High School 9th graders, which was a total of 461 students. 
 
- 1) **Amended District Summary**
+1. **Amended District Summary**
 ![Amended district summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/district_summary_amended.png)
    **Orignial District Summary**
 ![Original district summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/district_summary_original.png)
 
- 2) **Amended Per School Summary**
+2. **Amended Per School Summary**
 ![Amended School Summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/school_summary_amended.png)
   **Original Per School Summary**
 ![Original School Summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/school_summary_original.png)
 
- 3) **Amended Top 5 School Summary**
+3. **Amended Top 5 School Summary**
 ![Amended Top 5 School Summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/top5schools_amended.png)
   **Original Top 5 School Summary**
 ![Original Top 5 School Summary](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/top5schools_original.png)
 
- 4) **Amended Average Math Scores by Grade Level**
+4. **Amended Average Math Scores by Grade Level**
 ![Amended Scores by Grade Level](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/math_scores_by_grade_amended.png)
 
   **Original Average Math Scores by Grade Level**
 ![Original Scores by Grade Level](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/math_scores_by_grade_original.png)
 
- 5) Effects of replacing the ninth-grade scores for Thomas High School(THS)
+5. **Effects of replacing the ninth-grade scores for Thomas High School(THS)**
   * No changes to the Math and reading scores by grade except for the THS 9th graders being replaced with NaNs
   * No changes to the School Spending Summary 
   * No changes to the School Size Summary
