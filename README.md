@@ -29,12 +29,12 @@ Below are the comparison of orignal and amended results after removing all the m
 
 4. **Amended Average Math Scores by Grade Level**
 ![Amended Scores by Grade Level](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/math_scores_by_grade_amended.png)
-
    **Original Average Math Scores by Grade Level**
 ![Original Scores by Grade Level](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Screenshots%20/math_scores_by_grade_original.png)
 
 5. **Effects of replacing the ninth-grade scores for Thomas High School(THS)**
   * No changes to the Math and reading scores by grade except for the THS 9th graders being replaced with NaNs
+  * No changes to the bottom 5 school summary
   * No changes to the School Spending Summary 
   * No changes to the School Size Summary
   * No changes to the School Type Summary
