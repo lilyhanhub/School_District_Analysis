@@ -53,5 +53,5 @@ However, the amount of 461 ninth grade students attending Thomas High is minimal
 * Data Source: 
   * [schools_complete.csv](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Resources/schools_complete.csv)
   * [students_complete.csv](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Resources/students_complete.csv)
-  * [clean_students_complete.csv](https://github.com/lilyhanhub/School_District_Analysis/blob/main/Resources/clean_students_complete.csv)
-* Software: Jupyter Notebook, Anaconda 4.13.0
+* Software: Python 3.9.12 | Jupyter Notebook 6.4.8
+* Source code: [PyCitySchools_Challenge.ipynb](/PyCitySchools_Challenge.ipynb)
