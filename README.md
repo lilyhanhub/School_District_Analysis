@@ -47,7 +47,7 @@ According to the above results, removing the math and reading scores of the THS 
 * The percentage of passing math and reading scores of THS
 * The overall passing percentage of THS
 
-However, the amount of 461 ninth grade students attending Thomas High is minimal comparing to a total of 39,170 students in the whole school district. Therefore, the score and percentage changes were minimal. Although the amended results are more accurate, the changes are not significant to the analysis by removing THS discrepencies.
+However, the amount of 461 ninth grade students attending Thomas High is minimal comparing to a total of 39,170 students in the whole school district. Therefore, the score and percentage changes were minimal. Although the amended results are more accurate, the changes are not significant to the analysis by removing the THS discrepencies.
 
 ## Resources
 * Data Source: 
